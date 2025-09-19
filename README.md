@@ -60,7 +60,7 @@ GLOSSARY_FILE = "config/translation_glossary.json"# 术语表文件
 
 ## 使用教程
 
-### 1. 准备专有名词保护列表
+### 1. 准备专有名词保护列表（可选）
 编辑 `config/protected_terms.json`：
 ```json
 [
