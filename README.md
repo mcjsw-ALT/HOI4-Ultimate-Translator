@@ -66,6 +66,7 @@ MAX_WORKERS = 6# 根据CPU核心数调整 (4-8)
 
 ### 第五步：游戏设置
   在钢铁雄心4/mod/mod名字/.mod文件中添加：
+   
    supported_version = "1.16.*"
    
    language = "l_simp_chinese"
