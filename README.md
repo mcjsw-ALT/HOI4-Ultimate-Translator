@@ -1,6 +1,6 @@
 # HOI4 Mod 终极汉化工具
 
-![HOI4 Banner](https://example.com/hoi4-banner.jpg) <!-- 可替换为实际图片链接 -->
+
 
 [![GitHub release](https://img.shields.io/github/v/release/your_username/HOI4-Ultimate-Translator)](https://github.com/your_username/HOI4-Ultimate-Translator/releases)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
