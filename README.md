@@ -39,10 +39,9 @@ HOI4 Mod 终极汉化工具是一个强大的自动化解决方案，专为钢�
 1. 创建 hoi4_ultimate_translator.py 文件 （创建txt文件记事本打开粘贴所有代码）（有现成的直接用）
 2. 设置关键参数：
   python DEEPL_API_KEY = "你的真实API密钥"# DeepL API 密钥
- 
   MOD_DIRECTORY = r"你的MOD本体路径"# 
-      例如：r"C:\Steam\steamapps\workshop\content\394360\123456\localisation"
-      或者C:\\Steam\\steamapps\\workshop\\content\\394360\\123456\\localisation"
+   例如：r"C:\Steam\steamapps\workshop\content\394360\123456\localisation"
+   或者C:\\Steam\\steamapps\\workshop\\content\\394360\\123456\\localisation"
   MAX_WORKERS = 6# 根据CPU核心数调整 (4-8)
 
 
