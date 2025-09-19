@@ -33,7 +33,7 @@ HOI4 Mod 终极汉化工具是一个强大的自动化解决方案，专为钢�
 ### 第一步：安装准备
 1. 安装 [Python 3.8+](https://www.python.org/downloads/)
 2. 安装依赖库：（Win+R → 输入 cmd → 回车）
-   powershell pip install requests tqdm
+  输入powershell pip install requests tqdm
 
 ### 第二步：配置文件
 1. 创建 hoi4_ultimate_translator.py 文件 （创建txt文件记事本打开粘贴所有代码）（有现成的直接用）
