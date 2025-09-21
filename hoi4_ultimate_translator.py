@@ -355,7 +355,7 @@ class HOI4UltimateTranslator:
         print("\n" + "\n".join(report))
 
 # ===== 用户配置区 =====
-DEEPL_API_KEY = "c43629f6-7a71-4600-a0c5-1f5c458a01b0:fx"  # 替换为你的DeepL API密钥
+DEEPL_API_KEY = "替换为你的DeepL API密钥"  # 替换为你的DeepL API密钥
 MOD_DIRECTORY = r"E:\gtxx4\localisation"  # 替换为mod本地化文件夹路径
 MAX_WORKERS = 4 # 并发线程数，根据电脑性能调整(4-8)
 # ======================
@@ -393,4 +393,5 @@ if __name__ == "__main__":
         import traceback
         traceback.print_exc()
     
+
     input("\n按Enter键退出程序...")
